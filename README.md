@@ -16,4 +16,4 @@ zulässig, Sie müssen nur den Name ändern.
 
 0. Sie tun einfach das, wozu Sie gerade lust haben, VERSTANDEN?
 ```
-![MDWDW](lizenz.webp)
+![LICENSE](license.gif)
