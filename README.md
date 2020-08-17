@@ -1,17 +1,19 @@
-### License
+###          Allgemeine Geschäftsbedingungen
 ```
-    DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-            Version 2, December 2004
+            Mach doch was du willst - PUBLIC LICENSE
+                      Version 69, August 2020
+  
+Copyright (C) 2019 Covid-19 <SARS-CoV-2@cov.id>
 
-Copyright (C) 1980 Ruth Shell <ruth.shell@mail.ru>
+Auch ohne schriftliche oder mündliche Genehmigung dürfen Sie die Inhalte 
+anderweitig reproduzieren, ändern, kopieren, verteilen oder für 
+*NICHT* kommerzielle Zwecke nutzen.
+Auch Kopien dieser Geschäftsbedingungen und deren Änderung sind
+zulässig, Sie müssen nur den Name ändern.
 
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
+                 MACH DOCH WAS DU WILLST - PUBLIC LICENSE
+    ALLGEMEINE GESCHÄFTSBEDINGUNGEN FÜR DAS KOPIEREN, VERTEILEN UND ÄNDERN
 
-           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-0. You just DO WHAT THE FUCK YOU WANT TO.
+0. Sie tun einfach das, wozu Sie gerade lust haben, VERSTANDEN?
 ```
-![WTFPL](license.png)
+![MDWDW](lizenz.webp)
